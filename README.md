@@ -6,7 +6,9 @@
 🔭 I’m currently working on Computer Vision Projects
 
 🌱 I’m currently studying B.Tech(AI and Data Science)
+
 💞️ I’m looking to collaborate on ML and DS Projects
+
 📫 How to reach me - ahmedmuzammil.ai@gmail.com
 
 <!--

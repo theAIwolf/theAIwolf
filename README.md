@@ -1,4 +1,4 @@
-[<img src="https://github.com/theAIwolf/theAIwolf/blob/main/intro.gif" alt="👋 Hi there! I'm Muzammil - theAIwolf" title="👋 Hi there! I'm Muzammil - theAIwolf"/>]
+<img src="https://github.com/theAIwolf/theAIwolf/blob/main/intro.gif" alt="👋 Hi there! I'm Muzammil - theAIwolf" title="👋 Hi there! I'm Muzammil - theAIwolf"/>
 
 ### Hi there 👋
 👋 Hi, I’m Muzammil Ahmed

@@ -7,11 +7,11 @@
 
 🔭 I’m currently working on Computer Vision Projects
 
-🌱 I’m currently studying B.Tech(AI and Data Science)
+🌱 I’m currently pursuing my bachelor's in Artificial Intelligence and Data Science
 
 💞️ I’m looking to collaborate on ML and DS Projects
 
-📫 How to reach me - ahmedmuzammil.ai@gmail.com
+📫 Reach me at ahmedmuzammil.ai@gmail.com
 
 <!--
 **theAIwolf/theAIwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
